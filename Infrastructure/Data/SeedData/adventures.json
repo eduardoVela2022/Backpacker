@@ -1,0 +1,37 @@
+[
+  {
+    "Destination": "Cancún Mexico, Mexico",
+    "DepartureDate": "2024-04-19T00:00:00",
+    "ArrivalDate": "2024-05-10T00:00:00"
+  },
+  {
+    "Destination": "Mexico City, Mexico",
+    "DepartureDate": "2024-05-23T00:00:00",
+    "ArrivalDate": "2024-05-26T00:00:00"
+  },
+  {
+    "Destination": "La Paz, Mexico",
+    "DepartureDate": "2024-06-15T00:00:00",
+    "ArrivalDate": "2024-06-25T00:00:00"
+  },
+  {
+    "Destination": "Pachuca, Mexico",
+    "DepartureDate": "2024-07-01T00:00:00",
+    "ArrivalDate": "2024-07-10T00:00:00"
+  },
+  {
+    "Destination": "Puebla, Mexico",
+    "DepartureDate": "2024-07-12T00:00:00",
+    "ArrivalDate": "2024-07-22T00:00:00"
+  },
+  {
+    "Destination": "Oaxaca, Mexico",
+    "DepartureDate": "2024-08-01T00:00:00",
+    "ArrivalDate": "2024-08-07T00:00:00"
+  },
+  {
+    "Destination": "Monterrey, Mexico",
+    "DepartureDate": "2024-09-13T00:00:00",
+    "ArrivalDate": "2024-09-23T00:00:00"
+  }
+]

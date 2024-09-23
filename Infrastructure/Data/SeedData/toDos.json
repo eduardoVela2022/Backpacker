@@ -1,0 +1,32 @@
+[
+  {
+    "Title": "Visit \"La Plaza de la Constitución\"",
+    "Description": "Take the metro and visit the plaza and the Metropolitan Cathedral of Mexico City.",
+    "AdventureId": 2
+  },
+  {
+    "Title": "Visit \"El Palacio de Bellas Artes\"",
+    "Description": "After visiting the plaza and the cathedral, walk to this art museum, which is just a couple blocks west from the plaza, and give it a visit.",
+    "AdventureId": 2
+  },
+  {
+    "Title": "Visit \"El Ángel de la Independencia\" and \"El Monumento a la Revolución\"",
+    "Description": "Visit these two iconic Mexico City landmarks.",
+    "AdventureId": 2
+  },
+  {
+    "Title": "Visit \"El Museo Nacional de Antropología\"",
+    "Description": "Visit this museum and take a look at its pre hispanic wonders.",
+    "AdventureId": 2
+  },
+  {
+    "Title": "Visit \"El Parque Fundidora\"",
+    "Description": "Visit this park and its different museums.",
+    "AdventureId": 7
+  },
+  {
+    "Title": "Visit \"Chipinque\"",
+    "Description": "Go for a hike at this iconic park.",
+    "AdventureId": 7
+  }
+]
